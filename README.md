@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zihan ZHOU, a high school student from Shanghai, China
+- 👋 Hi, I’m Zihan Zhou from China!
 - 👀 I’m interested in statistics, deep learning, computational social science and environment engineering，and I love billiards.
 - 📫 How to reach me: zihan.zhou856@gmail.com
 
